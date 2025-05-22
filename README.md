@@ -35,6 +35,8 @@ import: https://raw.githubusercontent.com/liaTemplates/ABCjs/main/README.md
 
 -->
 
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/liascript/hello-liascript/refs/heads/main/README.md)
+[![LiveEdit](https://raw.githubusercontent.com/LiaScript/LiaScript/refs/heads/development/badges/editor.svg)](https://liascript.github.io/LiveEditor/?/show/file/https://raw.githubusercontent.com/liascript/hello-liascript/refs/heads/main/README.md)
 
 # Hello LiaScript
 
