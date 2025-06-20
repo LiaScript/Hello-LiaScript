@@ -4,7 +4,7 @@ author: André Dietrich
 
 email:  LiaScript@web.de
 
-edit:   https://liascript.github.io/LiveEditor/?/show/file/https://raw.githubusercontent.com/LiaScript/Hello-LiaScript/refs/heads/main/README.md
+edit:   true
 
 comment: LiaScript introduces itself in an interactive way.
 
